@@ -1,9 +1,7 @@
-### Hi there 👋
-
-Here are some ideas to get you started:
+### Ahoy Mate! 👋
 
 - 🔭 I’m currently working on some cool stuff!
-- 🌱 I’m currently learning ReactJS
+- 🌱 I’m currently learning tech stacks to simplify life
 - 👯 I’m looking to collaborate on web developement and Blockchain
 - 📫 How to reach me: tejnaren07@gmail.com
 
