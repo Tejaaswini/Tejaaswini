@@ -12,7 +12,7 @@ class SoftwareDeveloper:
         
     def say_ahoy(self):
         print("Thank you for dropping by! 🚀")
-me = SoftwareEngineer()
+me = SoftwareDeveloper()
 me.say_ahoy()
 ```
 
