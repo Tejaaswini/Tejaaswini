@@ -8,7 +8,7 @@ class SoftwareDeveloper:
     def __init__(self):
         self.name = "Tejaaswini Narendra"
         self.role = "FullStack Developer"
-        self.interests = "Web3 | Illustrations | Anything fun"
+        self.interests = "Web3 | Backend | Illustrations | Anything fun"
         
     def say_ahoy(self):
         print("Thank you for dropping by! 🚀")
