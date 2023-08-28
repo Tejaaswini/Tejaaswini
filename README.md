@@ -31,7 +31,7 @@ me.say_ahoy()
 
 
 #### ✍🏻 Blogs
-Personal/Random Tech: [<img src="https://cdn-icons-png.flaticon.com/512/5968/5968933.png" width="30px" />](https://medium.com/@tejnaren07) <br />
+Personal/Random Tech: [<img src="https://cdn-icons-png.flaticon.com/512/5968/5968933.png" width="30px" style="margin-top: 5px;"/>](https://medium.com/@tejnaren07) <br />
 Web3: [<img src="https://user-images.githubusercontent.com/30696079/186565673-27a8a900-703c-40e7-a524-57b8861c75ad.png" width="20px" />](https://blog.bunsamosa.org/)
 
 #### 📇 Contact
