@@ -31,9 +31,8 @@ me.say_ahoy()
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
 
 
-#### ✍🏻 Blogs
-Personal/Random Tech: [<img src="https://cdn-icons-png.flaticon.com/512/5968/5968933.png" width="30px" style="margin-top: 5px;"/>](https://medium.com/@tejnaren07) <br />
-Web3: [<img src="https://user-images.githubusercontent.com/30696079/186565673-27a8a900-703c-40e7-a524-57b8861c75ad.png" width="20px" />](https://blog.bunsamosa.org/)
+#### ✍🏻 Blogs 
+medium: [![Medium Icon](https://cdn-icons-png.flaticon.com/512/5968/5968933.png)](https://medium.com/@tejnaren07) <br />
 
 #### 📇 Contact
 
