@@ -32,7 +32,7 @@ me.say_ahoy()
 
 
 #### ✍🏻 Blogs 
-medium: [<img src="https://cdn-icons-png.flaticon.com/512/5968/5968933.png" width="30px" style="margin-top: 5px;"/>](https://medium.com/@tejnaren07) <br />
+medium: [<img src="https://cdn-icons-png.flaticon.com/512/5968/5968933.png" width="30px" style="margin-top: -5px;"/>](https://medium.com/@tejnaren07) <br />
 
 #### 📇 Contact
 
