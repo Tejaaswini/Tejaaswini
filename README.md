@@ -28,6 +28,6 @@
 Check out my first book: [Blockchain for Beginners: The Art of Decentralization and Cryptography](https://www.shroffpublishers.com/books/9789352138852/)
 
 ## 📫 How to reach me:
-- [LinkedIn](https://www.linkedin.com/in/tejaaswini) or [](tejaaswini.com)
+- [LinkedIn](https://www.linkedin.com/in/tejaaswini) or [tejaaswini.com](tejaaswini.com)
 
 > “Sometimes, the questions are complicated – and the answers are simple.” – Light Yagami
