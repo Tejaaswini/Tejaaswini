@@ -1,44 +1,33 @@
-### Ahoy there! 👋
+# Ahoy there 👋 I'm Tejaaswini Narendran
 
-```python
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
+### I'm a master's student at George Washington University, majoring in Computer Science.
 
-class SoftwareDeveloper:
-    def __init__(self):
-        self.name = "Tejaaswini Narendra"
-        self.role = "FullStack Developer"
-        self.interests = "Backend | Illustrations | Security | Web3 | F1"
-        
-    def say_ahoy(self):
-        print("Thank you for dropping by! 🚀")
-me = SoftwareDeveloper()
-me.say_ahoy()
-```
+## ⚙️ I'm currently working on:
+- Building Microservices
+- Kubernetes
+- Golang
+- Security in Autonomous Vehicles
 
+## 🔍 I'm currently exploring:
+- Kernel Design 
+- Homomorphic Encryption
 
-#### 🔧 Technologies & Tools
+## 🧩 I'm currently building:
+- [Plutus](https://github.com/bunsamosa/plutus/) - A Personal Financial Assistant 
 
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Code-Django-informational?style=flat&logo=django&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Code-go-informational?style=flat&logo=go&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
+## 🛠 Tools and Technologies I Use:
+- Git
+- VSCode
+- Postman
+- Python
+- Postgres
+- Redis
+- AWS
 
+## ✍️ I'm writing my second book on "Blockchain Security".  
+Check out my first book: [Blockchain for Beginners: The Art of Decentralization and Cryptography](https://www.shroffpublishers.com/books/9789352138852/)
 
-#### ✍🏻 Blogs 
-medium: [<img src="https://cdn-icons-png.flaticon.com/512/5968/5968933.png" width="30px" style="margin-top: -5px;"/>](https://medium.com/@tejnaren07) <br />
-
-#### 📇 Contact
-
-[<img src="https://user-images.githubusercontent.com/30696079/186562900-92a4a3c7-0643-4d67-8337-43264e1e0844.png" width="20"/>](https://www.linkedin.com/in/tejaaswini/)        [<img src="https://user-images.githubusercontent.com/30696079/186565483-c6a8de96-ec86-4889-9a99-d0ac31c237cb.png" width="20"/>](https://twitter.com/tejnaren07)    [<img src="https://user-images.githubusercontent.com/30696079/186563590-cc9c0bc9-d1bf-403f-a795-ecc66cb6d3b3.png" width="20"/>](mailto:tejnaren07@gmail.com)   [<img src="https://cdn-icons-png.flaticon.com/512/922/922699.png" width="20px">](https://tejaaswini.com/)
-
-<br />
+## 📫 How to reach me:
+- [LinkedIn](https://www.linkedin.com/in/tejaaswini) or [](tejaaswini.com)
 
 > “Sometimes, the questions are complicated – and the answers are simple.” – Light Yagami
-
