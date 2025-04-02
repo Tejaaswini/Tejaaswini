@@ -1,5 +1,5 @@
-# Hi👋 I'm Tejaaswini Narendran
-### I love puzzles and building things! (⁠ノ⁠^⁠_⁠^⁠)⁠ノ
+## Hi👋 I'm Tejaaswini Narendran
+#### I love puzzles and building things! (⁠ノ⁠^⁠_⁠^⁠)⁠ノ
 
 [tejaaswini.com](tejaaswini.com)
 
