@@ -1,4 +1,4 @@
-## Ahoy I'm TJ 👋
+## Hi I'm TJ 👋
 #### I love puzzles and building things! (⁠ノ⁠^⁠_⁠^⁠)⁠ノ
 #### Other than building backend systems, I'm also diving into UAVs and drones.
 #### Icebreaker? Let's talk about RC, F1 or poetry - [drop me an email](mailto:tejnaren07@gmail.com) 
